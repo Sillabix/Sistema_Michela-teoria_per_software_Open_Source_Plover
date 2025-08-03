@@ -11,5 +11,6 @@ INSTALLAZIONE
 1.	Per installare il software Plover seguire le istruzioni qui: https://plover.wiki/index.php/Installation_Guide
 2.	Una volta installato il software, scaricare mediante il plugin manager interno il plover Michela plugin
 3.	Cancellare i dizionari che appariranno nella finestra principale e caricare i dizionari (ver. 5) presenti in questa repository.
+
 Quest'opera è distribuita con Licenza Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale
 
